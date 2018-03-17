@@ -1,0 +1,19 @@
+{
+  "plat_g19_v": "8447def1eadf774ed16ce6929e15eb2d50b9c33c",
+  "cpuminer_v": "946befcbbcfa987eeea816cac59a1aaa86960370",
+  "rootfs_v": "4973e48bd7ab0bb58688ce4845bd7b2b532429f7",
+  "uboot_v": "dbbdb4be24fac4f2e99aa039139e30051b5ac7d2",
+  "sgminer_v": "f02870a0ed3f1ee79923d497cec8cabe208186e7",
+  "kernel_v": "cb948ea4ad169bbfffe45df01111307d1a4aaa8f",
+  "busybox_v": "51cbe1f0a1e9179290048bc2a25cbe6a45513daf",
+  "cgminer4a8_v": "67ef3634a80bcd4432885f45fe0bdb7485ada7e0",
+  "cpython_v": "de2dc378c412259451d0cea55be2fb0e68c55bea",
+  "hwver": "G19",
+  "platform_v": "05ce00409af97f6a75ee5de76f761964a406de7f.0",
+  "curl_v": "d6001ee284226d5bc33158930bf512a1ddc70e63",
+  "build_date": "2018-02-09 11:13:41",
+  "openssl_v": "9421e957d0c30459df9389427d601e9aa4a3362e",
+  "memtester_v": "ebc666aa792b8f25f7395661e5d34a97bb27b4d2",
+  "cgminer_v": "0a2881785c2cf14b846da2c9cb07510b2bdba22f",
+  "ethaddr": "50:6c:be:08:91:22"
+}

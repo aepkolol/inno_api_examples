@@ -1,0 +1,17 @@
+{
+  "fanmode": "1",
+  "Voltage": 20,
+  "fanspeed": "1",
+  "UserName1": "ChaosMine.1x61",
+  "Frequency": "1152",
+  "UserName2": null,
+  "vidmode": "1",
+  "Pool2": null,
+  "Pool3": null,
+  "Pool1": "stratum+tcp://hub.miningpoolhub.com:17001",
+  "PoolNum": "1",
+  "UserName3": null,
+  "Password3": null,
+  "Password2": null,
+  "Password1": "x"
+}
